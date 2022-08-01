@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<documentfields.medio.medicalcenter>
+  <MedicalCenterHeader>Medical center of the MEDIO clinic</MedicalCenterHeader>
+  <MedicalCenterText>
+<![CDATA[
+<pre>
+<code>&lt;h1&gt;Medical center&lt;/h1&gt;
+&lt;p&gt;
+A clinic (or outpatient clinic or ambulatory care clinic) is a healthcare facility that is primarily devoted to the care of outpatients. Clinics can be privately operated or publicly managed and funded, and typically cover the primary health care needs of populations in local communities, in contrast to larger hospitals which offer specialized treatments and admit inpatients for overnight stays. Some clinics grow to be institutions as large as major hospitals, or become associated with a hospital or medical school while retaining the name &quot;clinic&quot;.
+&lt;/p&gt;</code></pre>
+
+]]>
+  </MedicalCenterText>
+</documentfields.medio.medicalcenter>

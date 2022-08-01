@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.pageurlpath>
+  <PageUrlPathCulture>en-US</PageUrlPathCulture>
+  <PageUrlPathGUID>f5ccdd1d-8d71-47c3-971d-d09c041523f1</PageUrlPathGUID>
+  <PageUrlPathNodeID>
+    <CodeName>/Home</CodeName>
+    <GUID>448eff7a-b8d7-46f5-ba07-a0aad68137ad</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>MEDIOClinic</CodeName>
+      <GUID>23f11601-ba95-4b71-8b02-e61f4984ada1</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PageUrlPathNodeID>
+  <PageUrlPathSiteID>
+    <CodeName>MEDIOClinic</CodeName>
+    <GUID>23f11601-ba95-4b71-8b02-e61f4984ada1</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PageUrlPathSiteID>
+  <PageUrlPathUrlPath>Home</PageUrlPathUrlPath>
+  <PageUrlPathUrlPathHash>
+    <![CDATA[81C033CAA418F6F2960A3F1C418F6087225A9942945F8AC6726F2DAE43AAE46F]]>
+  </PageUrlPathUrlPathHash>
+</cms.pageurlpath>

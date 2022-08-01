@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.classsite>
+  <Parent>
+    <CodeName>MEDIO.MedicalCenter</CodeName>
+    <GUID>ecabde25-db34-43ab-baf8-484b826df5e2</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="MEDIOClinic">
+      <SiteID>
+        <CodeName>MEDIOClinic</CodeName>
+        <GUID>23f11601-ba95-4b71-8b02-e61f4984ada1</GUID>
+        <ObjectType>cms.site</ObjectType>
+      </SiteID>
+    </Binding>
+  </Bindings>
+</cms.classsite>

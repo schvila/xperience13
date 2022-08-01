@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a CI serialization file for Home -->
+<cms.documentlocalization>
+  <DocumentContent />
+  <DocumentCreatedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentCreatedByUserID>
+  <DocumentCreatedWhen>2022-07-28 08:19:56Z</DocumentCreatedWhen>
+  <DocumentCulture>en-US</DocumentCulture>
+  <DocumentGUID>25eb9b28-7d7f-495b-8266-3fb97e1312c7</DocumentGUID>
+  <DocumentModifiedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentModifiedByUserID>
+  <DocumentModifiedWhen>2022-08-01 08:30:43Z</DocumentModifiedWhen>
+  <DocumentName>Home</DocumentName>
+  <DocumentNodeID>
+    <CodeName>/Home</CodeName>
+    <GUID>448eff7a-b8d7-46f5-ba07-a0aad68137ad</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>MEDIOClinic</CodeName>
+      <GUID>23f11601-ba95-4b71-8b02-e61f4984ada1</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </DocumentNodeID>
+  <DocumentShowInMenu>True</DocumentShowInMenu>
+</cms.documentlocalization>

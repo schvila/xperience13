@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.site>
+  <SiteDisplayName>MEDIOClinic</SiteDisplayName>
+  <SiteDomainName>localhost:8080</SiteDomainName>
+  <SiteGUID>23f11601-ba95-4b71-8b02-e61f4984ada1</SiteGUID>
+  <SiteName>MEDIOClinic</SiteName>
+  <SitePresentationURL>http://localhost:8080/Xperience13_MEDIOClinic</SitePresentationURL>
+</cms.site>
